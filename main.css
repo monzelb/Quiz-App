@@ -1,0 +1,44 @@
+
+#header{
+	font-size:50px;
+	text-align:center;
+}
+
+.Questions{
+	margin-top:100px;
+	width:459px;
+}
+.answer{
+    display: inline-block;
+	width: 130px;
+	height: 130px;
+	line-height: 130px;
+	background: #028F76;
+	-moz-border-radius: 65px;
+	-webkit-border-radius: 65px;
+	border-radius: 65px;
+	color: white;
+	text-align: center;
+	margin: 10px;
+	text-align: baseline;
+}
+
+.answer a{
+	height: 100%;
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+}
+
+.answer h3 {
+	width: 110px;
+	float: center;
+	position: relative;
+	text-align: center;
+	font-size: 16px;
+	font-weight: normal;
+	margin-top: 40px;
+	text-transform: none;
+	padding: 10px;
+	/*margin-left: 20px;*/
+}
